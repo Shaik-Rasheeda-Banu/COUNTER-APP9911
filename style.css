@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: lightblue;
+}
+
+button {
+    font-size: 2em;
+    padding: 20px 40px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: pink;
+    border-radius:20px;
+    
+}
+.buttons:hover{
+    transform:translate(-10px);
+
+}
+.incr:hover{
+        transform: translate(-10px);
+}
